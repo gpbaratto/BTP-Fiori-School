@@ -4,11 +4,11 @@
 This repository offers optional hands-on exercises for the BTP/Fiori School   
     
 ## Exercise 1: Developing a Read-Only List Report App
-Find the various hands-on exercises for this week in folder **[exercise1](/exercise1/README.md)** of this GitHub repository.    
+Find the various hands-on exercises in folder **[exercise1](/exercise1/README.md)** of this GitHub repository.    
     
     
 ## Exercise 2: Enabling the Transactional Behavior of an App
-Find the various hands-on exercises for this week in folder **[exercise2](/exercise2/README.md)** of this GitHub repository. 
+Find the various hands-on exercises in folder **[exercise2](/exercise2/README.md)** of this GitHub repository. 
         
 
 ## License
