@@ -1,7 +1,7 @@
 # HANDS-ON EXERCISE FOR EXERCISE 2 UNIT 2: CREATING THE CORE DATA SERVICES CDS) DATA MODEL
 
 ## Previous exercise:  
-[Exercise 2 Unit 1: Creating the Database Tables](unit1.md)
+[Exercise 1 Unit 1: Creating the Database Tables](unit1.md)
 
 ## Introduction  
 In the present hands-on exercise, you will define the travel and the booking interface views (aka BO views) of the CDS data model for your travel app. As preparation step for exercise 2, we will directly define the business object structure - i.e. the composition tree – in this exercise.    
@@ -277,4 +277,4 @@ Find the source code of the created CDS data definitions (interface views) in th
 Do not forget to replace all the occurrences of `####` with your chosen suffix in the copied source code.
        
 ## Next exercise
-[Exercise 2 Unit 3: Defining the CDS Data Model Projection](unit3.md)
+[Exercise 1 Unit 3: Defining the CDS Data Model Projection](unit3.md)

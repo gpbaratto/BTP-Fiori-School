@@ -1,7 +1,7 @@
 # HANDS-ON EXERCISE FOR EXERCISE 2 UNIT 5: IMPLEMENTING THE BUSINESS OBJECT BEHAVIOR
 
 ## Previous exercise:
-[Exercise 3 Unit 4: Enhancing the Business Object Behavior with App-Specific Logic](/exercise2/unit4.md)
+[Exercise 2 Unit 4: Enhancing the Business Object Behavior with App-Specific Logic](/exercise2/unit4.md)
 
 ## Introduction
 In the present hands-on exercise, you will now implement the business logic for the enhanced business object behavior defined in the previous unit (i.e. exercise 2 unit 4) in behavior implementation classes (aka _behavior pools_).

@@ -1,7 +1,7 @@
 # HANDS-ON EXERCISE FOR EXERCISE 1 UNIT 3: CREATING CDS DATA MODEL PROJECTION
 
 ## Previous exercise
-[Exercise 2 Unit 2: Creating the Core Data Services (CDS) Data Model](unit2.md)
+[Exercise 1 Unit 2: Creating the Core Data Services (CDS) Data Model](unit2.md)
 
 ## Introduction
 In the present hands-on exercise, you will define the CDS data model projection for your travel app on top of the CDS data model defined in the previous exercise. 
@@ -254,5 +254,5 @@ Find the source code of the created CDS data definitions (consumption views) in 
 - [W2U4_DDLS_ZC_RAP_BOOKING_####](/exercise1/sources/W2U4_DDLS_ZC_RAP_BOOKING.txt)
   
 ## Next exercise
-[Exercise 2 Unit 4: Enriching the Projected Data Model with UI Metadata](unit4.md)
+[Exercise 1 Unit 4: Enriching the Projected Data Model with UI Metadata](unit4.md)
 

@@ -1,7 +1,7 @@
 # HANDS-ON EXERCISE FOR EXERCISE 2 UNIT 6: IMPLEMENTING BASIC AUTHORIZATIONS
 
 ## Previous exercise
-[Exercise 2 Unit 5: Creating and Previewing the OData UI Service](unit5.md)
+[Exercise 1 Unit 5: Creating and Previewing the OData UI Service](unit5.md)
 
 ## Introduction
 In the present hands-on exercise, you will define the access control for the travel entity.

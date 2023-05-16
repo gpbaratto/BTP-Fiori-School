@@ -1,7 +1,7 @@
 # HANDS-ON EXERCISE FOR EXERCISE 2 UNIT 4: ENHANCING THE BUSINESS OBJECT BEHAVIOR WITH APP-SPECIFIC LOGIC 
 
 ## Previous exercise:
-[Exercise 3 Unit 3: Understanding Entity Manipulation Language (EML)](/exercise2/unit3.md)
+[Exercise 2 Unit 3: Understanding Entity Manipulation Language (EML)](/exercise2/unit3.md)
 
 ## Introduction
 In the present hands-on exercise, you will enhance the standard transactional behavior of your managed business object by defining determinations, validations and actions. You will also add static and dynamic feature control.      

@@ -1,7 +1,7 @@
 # HANDS-ON EXERCISE FOR EXERCISE 2 UNIT 5: DEVELOPING AND PREVIEWING THE BUSINESS SERVICE
 
 ## Previous exercise
-[Exercise 2 Unit 4: Enriching the Projected Data Model with UI Metadata](unit4.md)
+[Exercise 1 Unit 4: Enriching the Projected Data Model with UI Metadata](unit4.md)
 
 ## Introduction
 In the present exercise, you will expose your projected CDS data model as OData service using business services – i.e. service definition and service binding.  
@@ -155,5 +155,5 @@ Find the source code for the created service definition in the **[sources](/exer
 Do not forget to replace all the occurrences of ‘####’ with your chosen suffix in the copied source code.
   
 ## Next exercise
-[Exercise 2 Unit 6: Implementing Basic Authorizations](unit6.md)
+[Exercise 1 Unit 6: Implementing Basic Authorizations](unit6.md)
 

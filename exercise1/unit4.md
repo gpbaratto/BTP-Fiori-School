@@ -1,7 +1,7 @@
 # HANDS-ON EXERCISE FOR EXERCISE 2 UNIT 4: ENRICHING THE PROJECTED DATA MODEL WITH UI METADATA
 
 ## Previous exercise
-[Exercise 2 Unit 3: Defining the CDS Data Model Projection](unit3.md)
+[Exercise 1 Unit 3: Defining the CDS Data Model Projection](unit3.md)
 
 ## Introduction
 In the present hands-on exercise, you will enrich your CDS data model projection with UI metadata for the latter generation of an SAP Fiori elements-based Travel list report app. The focus of this course is on the RESTful back-end implementation of apps. Therefore, we will use only a few UI annotations to enrich the projected CDS data model for the later generation of our SAP Fiori elements Travel app.  
@@ -294,4 +294,4 @@ Find the source code for the created CDS metadata extensions in the **[/exercise
 Do not forget to replace all the occurrences of `####` with your chosen suffix in the copied source code.
 
 ## Next exercise
-[Exercise 2 Unit 5: Creating and Previewing the OData UI Service](unit5.md)
+[Exercise 1 Unit 5: Creating and Previewing the OData UI Service](unit5.md)
